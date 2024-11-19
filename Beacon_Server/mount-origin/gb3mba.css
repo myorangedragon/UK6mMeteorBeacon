@@ -1,0 +1,23 @@
+td {
+   border: 1px solid white;
+}
+
+table {
+  border-spacing: 10px;
+}
+
+h1 {
+  color:white;
+  text-align:center;
+}
+
+body {
+   background: black;
+}
+.page_body {
+   padding:0;
+   display:block;
+   width:1800px;
+   margin:auto;
+}
+
