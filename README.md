@@ -1,2 +1,2 @@
 # UK6mMeteorBeacon
-C and Web Code for the UK 6m Meteor Beacon Server
+C and Web Code for the UK 6m Meteor Beacon Server and Client
